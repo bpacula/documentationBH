@@ -8,3 +8,4 @@ collections: true
 header_pages:
   - Project.md
   - markdown.md
+  - brainhack_doc.md
