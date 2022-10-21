@@ -8,6 +8,7 @@
 ## Team
 
 This part will add all information about people involved 
+
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
