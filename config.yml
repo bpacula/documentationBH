@@ -6,5 +6,5 @@ enabled: true
 strip_title: true
 collections: true
 header_pages:
-  -Project.md
-  
+  - Project.md
+  - markdown.md
