@@ -7,7 +7,7 @@
 
 ## Team
 
-This part will add all information about people involved 
+This part will add all information about people involved, and stuff
 
 | Syntax      | Description |
 | ----------- | ----------- |
